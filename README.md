@@ -1,2 +1,3 @@
-# Phynic-Project
+# Phynic-Robotics
+
 Robotics Engineering
